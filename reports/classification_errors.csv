@@ -1,0 +1,8 @@
+﻿headline,actual_labels,predicted_labels,probabilities
+పంట బీమా నమోదు గడువుపై ప్రకటన,agriculture,Other,"environment=0.380, culture=0.433, education=0.357, agriculture=0.404, water=0.463"
+వాటర్ ట్యాంకుల శుభ్రతపై అధికారుల తనిఖీలు,water,agriculture,"environment=0.367, culture=0.363, education=0.312, agriculture=0.547, water=0.459"
+పాఠశాల భవనాల మరమ్మతులకు నిధుల కేటాయింపు,education,Other,"environment=0.366, culture=0.384, education=0.422, agriculture=0.439, water=0.453"
+నగరంలో గాలి కాలుష్యంపై నిపుణుల హెచ్చరిక,environment,Other,"environment=0.405, culture=0.411, education=0.328, agriculture=0.415, water=0.454"
+చెరువు కాలుష్యంతో చేపల పెంపక రైతులకు నష్టం,"environment, agriculture, water",agriculture,"environment=0.367, culture=0.363, education=0.318, agriculture=0.598, water=0.436"
+పక్షుల వలస మార్గాలపై పరిశోధకుల అధ్యయనం,environment,Other,"environment=0.431, culture=0.431, education=0.360, agriculture=0.401, water=0.404"
+గ్రామాల్లో ప్లాస్టిక్ రహిత మార్కెట్లకు ప్రయత్నం,environment,Other,"environment=0.449, culture=0.369, education=0.336, agriculture=0.390, water=0.419"

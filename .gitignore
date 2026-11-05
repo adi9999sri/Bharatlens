@@ -1,0 +1,22 @@
+# Python environments
+.venv/
+.venv-ml/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained models
+models/
+*.joblib
+
+# Temporary files
+data/test_output.txt

@@ -1,0 +1,23 @@
+[
+  {
+    "article_id": "001",
+    "headline": "తెలంగాణలో భారీ వర్షాలు",
+    "publisher": "Sample",
+    "language": "te",
+    "categories": []
+  },
+  {
+    "article_id": "002",
+    "headline": "రైతులకు కొత్త వ్యవసాయ పథకం",
+    "publisher": "Sample",
+    "language": "te",
+    "categories": []
+  },
+  {
+    "article_id": "003",
+    "headline": "ప్రభుత్వ పాఠశాలల్లో కొత్త సౌకర్యాలు",
+    "publisher": "Sample",
+    "language": "te",
+    "categories": []
+  }
+]
